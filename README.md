@@ -9,7 +9,7 @@ Links:
 
 ## Information
 
-My final project java code for the Design and Analysis of Computer Algorithms at UMGC. It should compare the Big-O concepts with the two chosen algorithims: Bucket and Merge Sort. Read all comments in the code.
+My final project java code for the Design and Analysis of Computer Algorithms at UMGC. It should compare the Big-O concepts with the two chosen algorithims: Bucket and Merge Sort. This is a differnt version that the one I submitted in class. On my own, I made this version beucase I wanted to compare the speeds of those two, but what if Bucket implmented Merge's sort instead of using insertion. I did this out of curiosity as most online shows Bucket with insertion sort not Bucket implmentation with a Merge Sort to sort the buckets. Read all comments in the code.
 
 ### Textbooks
 - P. J. Deitel and H. Deitel, *Java How to Program (Early Objects), 10th ed.*, Pearson, 2015. [Online Textbook Available](https://learning.oreilly.com/library/view/javatm-how-to/9780133813036/). [Accessed: n.d.]
