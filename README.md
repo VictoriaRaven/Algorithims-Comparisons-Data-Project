@@ -15,6 +15,12 @@ My final project java code for the Design and Analysis of Computer Algorithms at
 - P. J. Deitel and H. Deitel, *Java How to Program (Early Objects), 10th ed.*, Pearson, 2015. [Online Textbook Available](https://learning.oreilly.com/library/view/javatm-how-to/9780133813036/). [Accessed: n.d.]
 - Y. D. Liang, *Introduction to Java Programming and Data Structures, 13th ed.*, Pearson, May 23, 2023. [Online Textbook Available](https://www.pearson.com/en-us/subject-catalog/p/introduction-to-java-programming-and-data-structures/P200000010690/9780138092832). [Accessed: n.d.]
 - Erickson, J., *Algorithms*, University of Illinois at Urbana-Champaign, n.d. [Online Textbook Available](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+- J. Kleinberg and É. Tardos, *Algorithm Design*, Pearson Education, 2006.
+- E. Lehman, F. T. Leighton, and A. R. Meyer, *Mathematics for Computer Science*, LibreTexts, MIT, and UC Davis, 2021.
+- D. Mount, *Algorithms [Lectures CMSC 251]*, UMGC.
+- J. Nievergelt, *Algorithms and Data Structures*, University of Maryland Global Campus.
+- K. Sierra and B. Bates, *Head First Java* (1st ed.), O'Reilly Media, 2005.
+- J. Solomon, *Numerical Algorithms*, MIT, 2015.
 
 ### Contact
 
