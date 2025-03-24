@@ -50,6 +50,10 @@ who participated in this project.
 - [Big-O Chart: Eric](https://www.bigocheatsheet.com/)
 - [UMGC Library](https://libguides.umgc.edu/home)
 - [UMGC CS Resources](https://libguides.umgc.edu/c.php?g=316603&p=2114865)
+- [UMGC Peer to Peer File Sharing](https://www.umgc.edu/content/dam/umgc/documents/upload/peer-to-peer-file-sharing.pdf)
+- [UMGC Copyright and Fair Use](https://libguides.umgc.edu/copyright#s-lg-box-26283861)
+- [UMGC Creative Commons](https://libguides.umgc.edu/c.php?g=23404&p=7944948)
+- [UMGC CS Resources](https://libguides.umgc.edu/c.php?g=316603&p=2114865)
  - Thank you!
  - VictoriaRaven
 
